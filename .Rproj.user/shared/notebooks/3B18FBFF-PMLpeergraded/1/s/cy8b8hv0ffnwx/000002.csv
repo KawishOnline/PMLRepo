@@ -1,0 +1,3 @@
+"0","set.seed(1717)"
+"0","X <- rpart(classe ~ ., data=training_dataset, method = ""class"")"
+"0","rpart.plot(X)"

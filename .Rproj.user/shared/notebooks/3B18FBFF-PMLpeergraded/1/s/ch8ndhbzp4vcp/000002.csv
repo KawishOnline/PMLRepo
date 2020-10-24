@@ -1,0 +1,27 @@
+"0","library(caret)"
+"2","package ‘caret’ was built under R version 4.0.3"
+"2","Loading required package: lattice
+"
+"2","Loading required package: ggplot2
+"
+"2","package ‘ggplot2’ was built under R version 4.0.3"
+"0","library(knitr)"
+"2","package ‘knitr’ was built under R version 4.0.3"
+"0","library(data.table)"
+"2","package ‘data.table’ was built under R version 4.0.3"
+"2","data.table 1.13.2 using 2 threads (see ?getDTthreads).  Latest news: r-datatable.com
+"
+"0","library(rpart.plot)"
+"2","package ‘rpart.plot’ was built under R version 4.0.3"
+"2","Loading required package: rpart
+"
+"0","library(rpart)"
+"0","library(gbm)"
+"2","package ‘gbm’ was built under R version 4.0.3"
+"2","Loaded gbm 2.1.8
+"
+"0","library(ggplot2)"
+"0","library(corrplot)"
+"2","package ‘corrplot’ was built under R version 4.0.3"
+"2","corrplot 0.84 loaded
+"

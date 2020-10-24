@@ -1,0 +1,2 @@
+"0","plot_cor <- cor(training_dataset[, -53])"
+"0","corrplot(plot_cor, order = ""FPC"", method = ""color"", type = ""upper"", tl.cex = 0.8, tl.col = rgb(0, 0, 0))"

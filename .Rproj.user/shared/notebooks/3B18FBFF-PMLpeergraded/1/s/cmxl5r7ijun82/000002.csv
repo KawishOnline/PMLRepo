@@ -1,0 +1,2 @@
+"0","training_dataset <- train_data[, colSums(is.na(train_data)) == 0]"
+"0","testing_dataset <- test_data[, colSums(is.na(test_data)) == 0]"

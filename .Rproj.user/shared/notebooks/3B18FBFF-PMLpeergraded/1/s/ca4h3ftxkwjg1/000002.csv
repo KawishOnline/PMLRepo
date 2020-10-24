@@ -1,0 +1,18 @@
+"0","set.seed(77777)"
+"0","c_gbm <- trainControl(method = ""repeatedcv"", number = 5, repeats = 1)"
+"0","validation_gbm <- train(classe ~ .,data=training_dataset, method = ""gbm"", trControl = c_gbm, verbose = FALSE)"
+"0","validation_gbm$finalModel"
+"1","A gradient boosted model with multinomial loss function.
+"
+"1","150 iterations were performed.
+"
+"1","There were"
+"1"," "
+"1","52"
+"1"," "
+"1","predictors of which"
+"1"," "
+"1","52"
+"1"," "
+"1","had non-zero influence.
+"
